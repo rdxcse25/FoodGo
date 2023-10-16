@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://GoFood:GoFood@*#123@cluster0.iimqrld.mongodb.net/?retryWrites=true&w=majority"
+}
